@@ -1,0 +1,16 @@
+{
+  "name": "ejemplo-tres",
+  "version": "1.0.0",
+  "description": "Un ejemplo con NPM",
+  "main": "ejemploTres.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "Ejemplo",
+    "Tres",
+    "3"
+  ],
+  "author": "Marcos Huck",
+  "license": "MIT"
+}
