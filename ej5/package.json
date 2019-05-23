@@ -1,0 +1,19 @@
+{
+  "name": "ejemplo-cinco",
+  "version": "1.0.0",
+  "description": "Ejemplo con Express",
+  "main": "ejemploCinco.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "Ejemplo",
+    "Cinco",
+    "5"
+  ],
+  "author": "Marcos Huck",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
