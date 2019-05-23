@@ -1,0 +1,20 @@
+{
+  "name": "ejemplo-cuatro",
+  "version": "1.0.0",
+  "description": "Ejemplo de aplicación HTTP con NodeJS",
+  "main": "ejemploCuatro.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "Ejemplo",
+    "Cuatro",
+    "4",
+    "HTTP"
+  ],
+  "author": "Marcos Huck",
+  "license": "MIT",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
