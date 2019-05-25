@@ -1,0 +1,17 @@
+{
+  "name": "ejemplo-ocho",
+  "version": "1.0.0",
+  "description": "Ejemplo de NodeJS con Typescript",
+  "main": "./build/ejemploOcho.js",
+  "scripts": {
+    "tsc": "tsc",
+    "start": "node ."
+  },
+  "author": "Marcos Huck",
+  "license": "MIT",
+  "dependencies": {
+    "@types/express": "^4.16.1",
+    "express": "^4.17.0",
+    "typescript": "^3.4.5"
+  }
+}
