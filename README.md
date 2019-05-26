@@ -9,9 +9,13 @@ Este repositorio incluye los ejemplos prácticos destinados al uso de la enseña
 Desarrollado y expuesto por Marcos Huck para la Universidad Tecnológica Nacional.
 
 ## Contenido
-- Ejemplo 1: Mensaje en consola usando NodeJS.
-- Ejemplo 2: Usando variables y constantes con NodeJS.
-- Ejemplo 3: Crear una app con npm.
-- Ejemplo 4: Crear una app con módulo nativo http.
-- Ejemplo 5: Crear una app con express.
-- Ejemplo 6: Typescript vs JavaScript.
+- **Ejemplo 1:** Mensaje en consola usando NodeJS.
+- **Ejemplo 2:** Usando variables y constantes con NodeJS.
+- **Ejemplo 3:** Crear una app con npm.
+- **Ejemplo 4:** Crear una app con módulo nativo http.
+- **Ejemplo 5:** Crear una app con express.
+- **Ejemplo 6:** Typescript vs JavaScript.
+
+## Enlaces útiles
+- [Presentación](https://docs.google.com/presentation/d/1KAGKAPn_OXBZ7cz5PtXcim4PKNTBRJ2iwLhgGfEQzKc/edit?usp=sharing)
+- [Encuesta](https://forms.gle/DBoYxdCAGw56SRrz7)
