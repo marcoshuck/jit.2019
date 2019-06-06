@@ -19,3 +19,9 @@ Desarrollado y expuesto por Marcos Huck para la Universidad Tecnológica Naciona
 ## Enlaces útiles
 - [Presentación](https://docs.google.com/presentation/d/1KAGKAPn_OXBZ7cz5PtXcim4PKNTBRJ2iwLhgGfEQzKc/edit?usp=sharing)
 - [Encuesta](https://forms.gle/DBoYxdCAGw56SRrz7)
+
+## Referencias
+- [NodeJS](https://nodejs.org/es/)
+- [Twelve Factor App](https://12factor.net/es/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [VS Code](https://code.visualstudio.com/)
